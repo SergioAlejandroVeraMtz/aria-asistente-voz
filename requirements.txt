@@ -1,0 +1,4 @@
+# Dependencias opcionales: el asistente funciona sin ellas con respaldo básico.
+# gtts
+# SpeechRecognition
+# pyaudio
